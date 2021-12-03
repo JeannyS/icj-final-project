@@ -1,0 +1,30 @@
+{
+  "holidays": [
+    {
+      "slug": "halloween",
+      "title": "Halloween",
+      "date": "October 31",
+      "image": "Halloween2.jpg",
+      "detailimage": "Halloween1.jpg",
+      "listname": "Why It's One of the Best",
+      "listinfo": ["Spooky Decoartions", 
+        "Halloween Movies", 
+        "Costumes", 
+        "Halloween Music", 
+        "Pumpkin Carving", 
+        "An overall fun time"]
+
+
+    },
+    {
+      "slug": "christmas",
+      "title": "Christmas",
+      "date": "December 25",
+      "image": "Christmascookies.jpg",
+      "detailimage": "Decoration.jpg",
+      "listname": "Why It's One of the Best",
+      "listinfo": ["Endless amount of decoratins", "Christmas Music", "Christmas Movies", "Christmas Cookies", "Gingerbread Houses", "Christmas Lights", "Presents", "Christmas Traditions" ]
+    }
+
+  ]}
+    
